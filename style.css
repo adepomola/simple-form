@@ -34,4 +34,6 @@ button {
 
 button:hover {
     background-color: darkblue;
+}input {
+    margin-bottom: 10px;
 }
