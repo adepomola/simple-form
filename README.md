@@ -1,4 +1,4 @@
-## Simple Form Project
+# Simple Form Project
 
 ## Project Overview
 This project demonstrates the use of Git and GitHub for source code management by creating and updating a simple HTML and CSS form.
@@ -29,17 +29,51 @@ This project demonstrates the use of Git and GitHub for source code management b
 
 Opened the terminal and ran:
 
-```bash
-git clone https://github.com/adepomola/simple-form.git 
-``` 
+bash
+git clone https://github.com/adepomola/simple-form.git
+
+
+### Step 3: Open …
+# Simple Form Project
+
+## Project Overview
+This project demonstrates the use of Git and GitHub for source code management by creating and updating a simple HTML and CSS form.
+
+## Objectives
+- Create a GitHub repository.
+- Clone the repository to a local computer.
+- Build a simple HTML form.
+- Style the form using CSS.
+- Track changes using Git commits.
+- Push changes to GitHub.
+
+## Tools Used
+- Visual Studio Code
+- Git
+- GitHub
+- HTML5
+- CSS3
+
+## Step-by-Step Implementation
+
+### Step 1: Create a GitHub Repository
+- Logged into GitHub.
+- Created a new repository named *simple-form*.
+- Initialized the repository with a README file.
+
+### Step 2: Clone the Repository
+
+Opened the terminal and ran:
+
+bash
+git clone https://github.com/adepomola/simple-form.git
 
 
 ### Step 3: Open the Project
 
-```bash
+bash
 cd simple-form
 code .
-```
 
 
 ### Step 4: Create the Project Files
@@ -65,21 +99,19 @@ Used CSS to:
 
 ### Step 7: Stage the Files
 
-```bash
+bash
 git add .
-```
 
 
 ### Step 8: Create the First Commit
 
 bash
 git commit -m "Initial commit for simple form"
-```
 
 
 ### Step 9: Push to GitHub
 
-```bash
+bash
 git push -u origin main
 
 
@@ -138,4 +170,3 @@ https://github.com/adepomola/simple-form
 ## Author
 
 *Adepomola Ayomide*
-
